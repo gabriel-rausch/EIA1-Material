@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgba(215, 215, 215);
+}
+
+main {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#counter {
+    color: grey;
+}
+
+.inputGroup {
+    position: relative;
+}
+#inputTodo {
+    background: white;
+    font-size: 20px;
+    padding: 20px 50px;
+    border: none;
+    width: 100%;
+    height: 64px;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
+    outline: none;
+}
+
+#addButton {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 30px;
+    background: none;
+    border: none;
+    outline: none;
+    color: grey;
+    cursor: pointer;
+}
+#addButton:hover {
+    color: black;
+}
+
+#todos {
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.42);
+}
+
+.todo {
+    text-align: left;
+    position: relative;
+    font-size: 20px;
+    padding: 20px 50px;
+    background: white;
+    border-bottom: 1px solid grey;
+}
+
+.check {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+}
+.check i {
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+.check.false i {
+    display: none;
+}
+
+.trash {
+    position: absolute;
+    right: 25px;
+    top: 20px;
+    color: grey;
+    cursor: pointer;
+}
+
+.trash:hover {
+    color: black;
+}
