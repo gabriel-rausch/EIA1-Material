@@ -1,2 +1,1 @@
-# Material für das Praktikum im Kurs
-## "Entwicklung Interaktiver Anwendungen I"
+# Material für das Praktikum zum Kurs "Entwicklung Interaktiver Anwendungen I"
