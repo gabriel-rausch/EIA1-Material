@@ -6,7 +6,7 @@ Die Gestaltungsfragmente (in Ordner images) sollen wie in der Designvorlage abge
 
 Zunächst einmal ist es sinnvoll einen Hauptcontainer für die Card zu erstellen, dieser muss horizontal und vertikal mittig platziert werden (dafür gibt es verschiedene Strategien in CSS).
 
-Im nächsten Schritt müssen die Elemente "shell" und "penguin" platziert werden.
+Im nächsten Schritt müssen die Elemente "plant" und "penguin" platziert werden.
 Dafür gibt es auch wieder verschiedene Möglichkeiten, hier eine Variante:
 
 Den Img-Tags verschiedene CSS-Klassen vergeben und über CSS die Bilder absolut positionieren.
