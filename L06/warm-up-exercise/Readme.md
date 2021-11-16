@@ -4,8 +4,8 @@ Mit diesen kleinen Fingerübungen werden wir noch einmal die Grundelemente diese
 
 Versuchen Sie diese Aufgabe in Teil-Aufgaben zu verstehen und lösen Sie dann Teil-Probleme Schritt für Schritt. 
 
-1. Zunächst ein neues Skript erstellen und in die HTML-Datei einbinden (am besten einmal das Einbinden und das korrekte Transpilieren der Skript-Datei mit einer einfachen Testausgabe überprüfen)
-2. Erstellen Sie jetzt eine Funktion, die als Anweisungsblock eine Ausgabe erzeugt: `alert("Ausgabetext")`
+1. Zunächst ein neues Skript erstellen und in die HTML-Datei einbinden (am besten einmal das Einbinden und das korrekte Transpilieren der Skript-Datei mit einer einfachen Testausgabe `console("Ausgabetext in der Konsole")` überprüfen)
+2. Erstellen Sie jetzt eine Funktion, die als Anweisungsblock eine Ausgabe erzeugt: `alert("Ausgabetext in einem Dialogfenster")`
 3. Diese Funktion soll nun zunächst testhalber direkt im Code aufgerufen werden. Der Ausgabetext sollte jetzt schon einmal ausgegeben werden.
 4. Der Ausgabetext soll nun ausgegeben werden, wenn auf den Button "button1" geklickt wurde.
 
