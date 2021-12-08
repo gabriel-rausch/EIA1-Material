@@ -6,5 +6,5 @@ Bilden Sie drei Personen dieses Kurses durch Objekte ab. Erstellen Sie dazu ein 
 ### Übung B:
 Die Namen dieser drei Personen sollen nacheinander in der Konsole ausgegeben werden. Entwickeln Sie eine Lösung, die flexibel ist und einfach skaliert, um auch 100 oder 1000 Personen ausgeben lassen zu können.
 
-### Übung A:
-Ermitteln Sie aus einer beliebigen Anzahl numberischer Werte deren Summe und geben Sie diese in der Konsole aus.
+### Übung C:
+Ermitteln Sie aus einer beliebigen Anzahl numerischer Werte deren Summe und geben Sie diese in der Konsole aus.
