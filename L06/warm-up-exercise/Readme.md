@@ -1,4 +1,4 @@
-Mit dem Start von TypeScript werden wir hier in dieser kleinen Übungrunde einmal eine Skripdatei erstellen, transpilieren, einbinden und ausführen.
+Mit dem Start von TypeScript werden wir hier in dieser kleinen Übungsrunde einmal eine Skripdatei erstellen, transpilieren, einbinden und ausführen.
 
 Also:
 
