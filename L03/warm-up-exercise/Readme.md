@@ -6,7 +6,7 @@ Dazu eine kleine Übung:
 
 Hier finden Sie ein (gekürztes) Beispiel aus Wikipedia (ohne Styles).
 
-1. Das Bild wird nicht angezeigt. Können Sie das korrigieren?
-2. Der interne Verweis unter dem Bild funktioniert nicht ("Visual Storytelling by Suhani Gowan"). Bei Klick auf die "1" soll zur Quelle gesprungen werden. Können Sie das korrigieren?
+1. Das Bild unter dem Titel wird nicht angezeigt. Können Sie das korrigieren?
+2. Nach dem einführenden Textabschnitt (am Ende des Satzes "Explanations for the picture superiority effect are not concrete and are still being debated") soll ein Erklärvideo angezeigt werden. Suchen Sie sich ein passendes Video auf YouTube und betten Sie es ein.
 3. In der HTML Datei finden Sie folgende Info "Cached time: 20211015174709". Was könnte damit gemeint sein?
 
