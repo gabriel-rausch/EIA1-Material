@@ -5,4 +5,4 @@ Als kleine Übung habe ich Ihnen ein paar HTML-Fragmente einer fiktiven Webanwen
 
 
 Wenn Sie später noch Lust haben, dann spielen Sie mal die ersten Level von [CSS Diner](https://flukeout.github.io). Hier können Sie sich mit Selektoren beschäftigen.
-Folgendes Spiel, das ich gefunden habe, ist auch ganz nett: [Quiz zu CSS](https://de.khanacademy.org/computing/computer-programming/html-css/intro-to-css/e/quiz--simple-css-selectors) spielen, das ich auf Khan Academy gefunden habe.
+Folgendes Spiel, das ich gefunden habe, ist auch ganz nett: [Quiz zu CSS](https://de.khanacademy.org/computing/computer-programming/html-css/intro-to-css/e/quiz--simple-css-selectors).
